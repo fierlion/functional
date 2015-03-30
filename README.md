@@ -1,2 +1,2 @@
 # functional
-functional-javascript exercises nodeschool.io
+functional-javascript exercises from nodeschool.io
